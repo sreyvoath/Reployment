@@ -140,7 +140,7 @@ ul li a:hover {
     outline: none;
     cursor: pointer;
     border:none;
-    color: #fff;
+    color:black;
 }
 .btn-raduis-left {
     border-top-left-radius: 40px;
